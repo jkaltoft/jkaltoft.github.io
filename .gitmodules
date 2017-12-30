@@ -1,0 +1,3 @@
+[submodule "today-i-learned"]
+	path = today-i-learned
+	url = git@github.com:jkaltoft/today-i-learned.git
